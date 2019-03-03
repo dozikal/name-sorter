@@ -1,0 +1,9 @@
+language: csharp
+solution: name-sorter.sln
+mono: none
+sudo: required
+dist: win10-x86
+dotnet: 2.2
+script:
+    - dotnet build
+    - dotnet test

@@ -1,0 +1,11 @@
+C:\Users\dozik\Desktop\Workbench\C#2\NameSorter\name-sorter\src\bin\Release\netcoreapp2.2\name-sorter.deps.json
+C:\Users\dozik\Desktop\Workbench\C#2\NameSorter\name-sorter\src\bin\Release\netcoreapp2.2\name-sorter.runtimeconfig.json
+C:\Users\dozik\Desktop\Workbench\C#2\NameSorter\name-sorter\src\bin\Release\netcoreapp2.2\name-sorter.runtimeconfig.dev.json
+C:\Users\dozik\Desktop\Workbench\C#2\NameSorter\name-sorter\src\bin\Release\netcoreapp2.2\name-sorter.dll
+C:\Users\dozik\Desktop\Workbench\C#2\NameSorter\name-sorter\src\bin\Release\netcoreapp2.2\name-sorter.pdb
+C:\Users\dozik\Desktop\Workbench\C#2\NameSorter\name-sorter\src\obj\Release\netcoreapp2.2\name-sorter.csprojAssemblyReference.cache
+C:\Users\dozik\Desktop\Workbench\C#2\NameSorter\name-sorter\src\obj\Release\netcoreapp2.2\name-sorter.csproj.CoreCompileInputs.cache
+C:\Users\dozik\Desktop\Workbench\C#2\NameSorter\name-sorter\src\obj\Release\netcoreapp2.2\name-sorter.AssemblyInfoInputs.cache
+C:\Users\dozik\Desktop\Workbench\C#2\NameSorter\name-sorter\src\obj\Release\netcoreapp2.2\name-sorter.AssemblyInfo.cs
+C:\Users\dozik\Desktop\Workbench\C#2\NameSorter\name-sorter\src\obj\Release\netcoreapp2.2\name-sorter.dll
+C:\Users\dozik\Desktop\Workbench\C#2\NameSorter\name-sorter\src\obj\Release\netcoreapp2.2\name-sorter.pdb
