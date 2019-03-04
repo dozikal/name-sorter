@@ -20,7 +20,6 @@ namespace NameSorter
                 Console.WriteLine(item);
             }
             Console.WriteLine("------------------------------------\n");
-
             fileHandler.WriteFile("sorted-names-list.txt", sorted);
         }
     }
