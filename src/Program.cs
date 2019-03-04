@@ -21,7 +21,7 @@ namespace NameSorter
             }
             Console.WriteLine("------------------------------------\n");
 
-            fileHandler.WriteFile("names-sorted.txt", sorted);
+            fileHandler.WriteFile("sorted-names-list.txt", sorted);
         }
     }
 }
